@@ -5,7 +5,7 @@
 .hrHeader{
   background-color: red;
   height: 2px;
-  width: 20px;
+  width: 50px;
   border: none;
 }
 
@@ -58,4 +58,33 @@ ul>li>a.textWhite{
 .youNeed{
   background: #f05f40;
   color: #FFF; 
+  height: 350px;
+}
+
+.hrStarted{
+  background-color: #FFF;
+  height: 2px;
+  width: 50px;
+  border: none;
+}
+
+.btnStarted{
+  background-color: #FFF;
+  color: black;
+}
+
+.h1Started{
+  margin-top: 80px;
+}
+
+.pTransparent{
+  color: rgba(255,255,255,0.8);
+}
+
+.yourServices{
+
+}
+
+.h1Services{
+  margin-top: 80px; 
 }
